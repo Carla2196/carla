@@ -1,6 +1,6 @@
 # MARKDOWN
 ## Prueba Markdown
-Este es un **párrafo* con palabras en *cursiva* y otras en `código`.
+Este es un párrafo con **palabras en negrita** y  con palabras en *cursiva* y otras en `código`.
 
 ```python
 # Esto es un ejemplo de código en Python
