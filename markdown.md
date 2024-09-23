@@ -17,11 +17,11 @@ def hola():
 - Tres
 - Uno
 
-[Visita la página oficial de Markdown](https://www.markdownguide.org/cheatsheet/)
+[Visita youtube](https://www.youtube.com)
 
 [Enlace a otro archivo Markdown](./README.md)
 
-![Imagen de ejemplo](https://www.ejemplo.com/imagen.jpg)
+![Imagen de ejemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/800px-PNG_transparency_demonstration_1.png)
 
 | Columna 1 | Columna 2 |
 | --------- | --------- |
